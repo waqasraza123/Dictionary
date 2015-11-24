@@ -1,0 +1,19 @@
+label {
+    display: block;
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+body{
+    padding-top: 20px;
+}
+.form {
+    width: 50%;
+    margin: 0 auto;
+}
+.panel-default {
+    border-color: #ddd;
+    margin-top: 20px;
+}
